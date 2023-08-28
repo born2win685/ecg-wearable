@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=ezble-ckt.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=ezble-ckt.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=ecg_ckt.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=ecg_ckt.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=bat-ckt.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=bat-ckt.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=rpi-ckt.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=rpi-ckt.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
